@@ -1,6 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    margin: 0;
 }
 
 section {
@@ -37,7 +38,7 @@ header p {
     color: whitesmoke;
     text-decoration: none;
     padding: 10px 15px;
-    background-color: rgb(201, 84, 12);
+    background-color: rgb(215, 127, 72);
     border-radius: 5px;
 
 }
@@ -45,15 +46,15 @@ header p {
 .box-conatainer {
     display: flex;
     margin: 0 20%;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .box-unit {
     width: 25%;
     height: 10%;
     background-color: rgb(241 228 228 / 50%);
-    padding: 76px 10px;
-    margin: 44px;
+    padding: 67px 8px;
+    margin: 15px;
     border-radius: 10px;
     font-size: 33px;
     font-weight: bold;
@@ -145,9 +146,10 @@ footer {
     background-color: black;
     color: white;
     padding: 50px 0;
-}
-
-footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: italic;
+}
+
+footer h2 {
+    color: rgb(201, 84, 12)
 }
