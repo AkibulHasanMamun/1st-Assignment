@@ -61,7 +61,7 @@ header p {
     color: rgb(140, 127, 127);
 }
 
-.unique-box {
+#alienBox {
     border: 4px solid rgb(216, 185, 185);
     background-color: antiquewhite;
 }
